@@ -9,13 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: andre.lot@nhh.no
   - icon: github
     icon_pack: fab
     link: https://github.com/lotandre
