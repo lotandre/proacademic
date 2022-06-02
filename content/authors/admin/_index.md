@@ -1,8 +1,7 @@
 ---
-title: Andre Lot
+title: test
 role: Ph.D candidate in Finance
-bio: I am a Financial Economist with interests on Household Finance, Retirement
-  Finance and a particular focus on experimental methods.
+bio: I am a Financial Economist with interests on
 interests:
   - Artificial Intelligence
   - Computational Linguistics
