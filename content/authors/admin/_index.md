@@ -23,19 +23,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Norwegian School of Economics
+    url: https://www.nhh.no/en/employees/faculty/andre-lot/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Finance
+      institution: Norwegian School of Economics
+      year: 2023
+    - course: MSc in Finance
+      institution: Tilburg University
+      year: 2017
+    - course: BSc in Business Administrations
+      institution: University of São Paulo (USP)
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 email: ""
 superuser: true
 highlight_name: true
