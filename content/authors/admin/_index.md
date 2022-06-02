@@ -3,9 +3,10 @@ title: test
 role: Ph.D candidate in Finance
 bio: I am a Financial Economist with interests on
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Household Finance
+  - Retirement Decision-Making
+  - Behavioral Finance
+  - Experimental Finance
 social:
   - icon: envelope
     icon_pack: fas
