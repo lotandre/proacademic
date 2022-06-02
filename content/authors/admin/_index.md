@@ -4,7 +4,7 @@ role: Ph.D candidate in Finance
 bio: I am a Financial Economist with interests on
 interests:
   - Household Finance
-  - Retirement Decision-Making
+  - Retirement Finance
   - Behavioral Finance
   - Experimental Finance
 social:
@@ -28,15 +28,13 @@ education:
     - course: MSc in Finance
       institution: Tilburg University
       year: 2017
-    - course: BSc in Business Administrations
+    - course: BSc in Business Administration
       institution: University of São Paulo (USP)
       year: 2009
 email: ""
 superuser: true
 highlight_name: true
 ---
-
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
