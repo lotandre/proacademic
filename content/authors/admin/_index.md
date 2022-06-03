@@ -24,13 +24,13 @@ education:
   courses:
     - course: PhD in Finance
       institution: Norwegian School of Economics
-      year: 2023
+      year: ""
     - course: MSc in Finance
       institution: Tilburg University
-      year: 2017
+      year: ""
     - course: BSc in Business Administration
       institution: University of São Paulo (USP)
-      year: 2009
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
