@@ -1,5 +1,5 @@
 ---
-title: Andre Kit
+title: Andre L
 role: Ph.D candidate in Finance
 avatar_filename: s13514.jpg
 bio: I am a Financial Economist with interests on
