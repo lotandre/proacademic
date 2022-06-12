@@ -1,26 +1,25 @@
+---
 widget: contact
 widget_id: contact
 headless: true
 weight: 130
 title: Contact
-
+subtitle: null
 content:
-    autolink: true
-    email: andre.lot@nhh.no
-    address:
-      street: Helleveien 30
-      city: Bergen
-      region: null
-      postcode: '5045'
-      country: Norway
-      country_code: NOR
-    coordinates:
-      latitude: "60.4230"
-      longitude: "5.3029"
-
+  autolink: true
+  email: andre.lot@nhh.no
+  address:
+    street: Helleveien 30
+    city: Bergen
+    region: null
+    postcode: '5045'
+    country: Norway
+    country_code: NOR
+  coordinates:
+    latitude: "60.4230"
+    longitude: "5.3029"
+  directions: null
+  office_hours: null
 design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
-
-
+  columns: "2"
 ---
