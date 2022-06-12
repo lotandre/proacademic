@@ -14,7 +14,7 @@ content:
     region: null
     postcode: '5045'
     country: Norway
-    country_code: NO
+    country_code: NOR
   coordinates:
     latitude: "60.4230"
     longitude: "5.3029"
