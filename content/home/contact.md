@@ -1,10 +1,8 @@
 widget: contact
-headless: true  # This file represents a page section.
-
-# ... Put Your Section Options Here (title etc.) ...
-title: Contact Me
-subtitle: ''
-weight: 10
+widget_id: contact
+headless: true
+weight: 130
+title: Contact
 
 content:
   # Automatically link email and phone or display as text?
@@ -22,21 +20,23 @@ content:
   # Contact details (edit or remove options as required)
   email: test@example.org
   phone: null
-  address:
-    street: Helleveien 30
-    city: Bergen
-    region: null
-    postcode: '5045'
-    country: Norway
-    country_code: NOR
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: null
-  office_hours: null
-  appointment_url: null
-  contact_links: null
+  content:
+    autolink: true
+    email: andre.lot@nhh.no
+    address:
+      street: Helleveien 30
+      city: Bergen
+      region: null
+      postcode: '5045'
+      country: Norway
+      country_code: NOR
+    coordinates:
+      latitude: "60.4230"
+      longitude: "5.3029"
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
+
+
+---
