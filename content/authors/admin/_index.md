@@ -2,7 +2,7 @@
 title: Andre L
 role: Ph.D candidate in Finance
 avatar_filename: s13514.jpg
-bio: I am a Financial Economist with interests on
+bio: I am a researcher in Finance.
 interests:
   - Household Finance
   - Retirement Finance
@@ -15,9 +15,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/lotandre
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 organizations:
   - name: Norwegian School of Economics
     url: https://www.nhh.no/en/employees/faculty/andre-lot/
